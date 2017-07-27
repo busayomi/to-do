@@ -1,0 +1,45 @@
+*{
+	margin: 10px auto;
+}
+body {
+    display: inline-block;
+    margin: 0px auto;
+    text-align: center;
+    font-color:#581845;
+    font-family: lucida bright;
+    
+}
+.contains{
+	background-color: #e0d2db;
+	border: 1px solid #B396A9;
+}
+ul{
+	list-style: none;
+	text-align: left
+}
+.lineHead{
+	display: inline;
+	margin: 20px;
+}
+h3{
+	border: 1px solid #B396A9;
+	padding: 10px;
+	margin: 0px;
+	background-color: #e0d2db;
+}
+h1{
+	font-family: Lucida Bright;
+}
+li{
+
+	padding: 10px;
+	margin: 10px;
+}
+table{
+	background-color:  #ffffff;
+}
+.lists{
+	border: 1px solid #B396A9;
+	padding: 8px;
+	background-color: #E0DADE;
+}
