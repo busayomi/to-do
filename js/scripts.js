@@ -33,7 +33,7 @@ function newTaskList() {
 	var listElement =document.createElement("li");
 	//Create the task node and checkbox
 	var taskNode = document.createTextNode(newTask.value);
-	var headingNode = document.createElement("h4");
+	var headingNode = document.createElement("h5");
 	headingNode.setAttribute("class","lineHead")
 	headingNode.appendChild(taskNode);
 	// headingNode.setAttribute("class","jumbotron")
