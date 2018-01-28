@@ -1,2 +1,2 @@
 # to-do
-Simple To Do app for CCHub
+Simple To Do app
